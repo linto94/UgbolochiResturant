@@ -84,7 +84,7 @@ ul li .current{
 /*Introducation Section*/
 
 .intro-section{
-	background: url(images/bg1.jpg) no-repeat center;
+	background: url(bg1.jpg) no-repeat center;
 	background-size: cover;
 	height: 60vh;
 }
@@ -227,7 +227,7 @@ ul li .current{
 /*Testionmal section*/
 
 .testimonial-section{
-	background: url(images/bg-3.jpg) no-repeat center;
+	background: url(bg-3.jpg) no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 }
